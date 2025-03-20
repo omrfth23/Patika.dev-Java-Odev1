@@ -23,6 +23,6 @@ Sistem aşağıdaki işlevleri sunar:
 - N-Katmanlı Mimari
 
 ## Çıktı Görüntüsü
-![Çıktı Görseli](screenshots/Ekran görüntüsü 2025-03-20 095934.png)
+![Çıktı Görseli](https://github.com/omrfth23/Patika.dev-Java-Odev1/blob/master/screenshots/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-20%20095934.png)
 
 
